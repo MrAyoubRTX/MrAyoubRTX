@@ -4,7 +4,7 @@
 
 > **Building software that solves real business problems, accelerates growth, and creates exceptional digital experiences.**
 
-I'm a Full Stack Software Engineer passionate about transforming ideas into scalable, high-performance web applications. I don't just build software—I build digital products that help businesses streamline operations, improve customer experiences, automate workflows, and support long-term growth.
+I'm a Full Stack Software Engineer passionate about transforming ideas into scalable, high-performance web applications. I don't just build software, I build digital products that help businesses streamline operations, improve customer experiences, automate workflows, and support long-term growth.
 
 My approach combines modern software engineering, product thinking, and AI-powered development to deliver solutions that are fast, secure, maintainable, and designed for real-world impact.
 
@@ -74,9 +74,9 @@ I develop modern digital products that help organizations:
 
 # 🤖 AI-Powered Development
 
-I leverage modern AI technologies throughout the entire software development lifecycle—from product discovery and system architecture to implementation, testing, optimization, and documentation.
+I leverage modern AI technologies throughout the entire software development lifecycle, from product discovery and system architecture to implementation, testing, optimization, and documentation.
 
-AI doesn't replace engineering—it amplifies it. I use AI to accelerate delivery, improve code quality, explore better architectural decisions, and build more intelligent software solutions.
+AI doesn't replace engineering, it amplifies it. I use AI to accelerate delivery, improve code quality, explore better architectural decisions, and build more intelligent software solutions.
 
 ### AI Technologies
 
@@ -117,7 +117,7 @@ AI doesn't replace engineering—it amplifies it. I use AI to accelerate deliver
 
 Technology is only valuable when it creates value.
 
-Every decision I make—from architecture to user interface—is driven by one question:
+Every decision I make from architecture to user interface is driven by one question:
 
 **"How does this help the business and improve the experience for its users?"**
 
