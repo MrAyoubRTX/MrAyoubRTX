@@ -1,4 +1,4 @@
-# Hi, I'm AYOUB LOK-AYBA 👋
+# Hi 👋
 
 ### Full Stack Software Developer • Future AI Engineer
 
